@@ -1,2 +1,2 @@
 # chatGPT_tutorials
-This repo contains tutorials on how to make use of ChatGPT
+Repo ini berisikan kode Python yang digunakan untuk membuat chatbot sederhana di terminal menggunakan ChatGPT API yang gratis.
